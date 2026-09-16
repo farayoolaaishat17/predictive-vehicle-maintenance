@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes vehicle maintenance data for a car rental Lagos to understand maintenance patterns and identify factors associated with vehicle maintenance needs.
+This project analyzes vehicle maintenance data for car rental Lagos to understand the maintenance patterns and identify factors associated with vehicle maintenance needs.
 
 The project covers exploratory data analysis, data preparation, SQL analysis, machine learning, and Power BI visualization.
 
